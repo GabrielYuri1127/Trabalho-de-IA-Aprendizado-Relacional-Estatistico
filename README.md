@@ -1,4 +1,4 @@
-# Aprendizado Relacional Estatistica
+# Aprendizado Relacional Estatistico
 ## Informações da Disciplina
 
 - **Disciplina:** Inteligência Artificial
