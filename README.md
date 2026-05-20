@@ -105,18 +105,6 @@ Após o treinamento, o sistema produz uma representação no estilo ProbLog, por
 0.82 :: risco(joao) :- conectado_a_inadimplente(joao, 2).
 ```
 
----
-
-## Etapas de Desenvolvimento
-
-1. Definição da rede de transações em Prolog.
-2. Modelagem dos clientes inadimplentes.
-3. Implementação da regra recursiva de conectividade.
-4. Criação do arquivo CSV com os dados financeiros.
-5. Integração entre Python e Prolog.
-6. Geração do atributo relacional `grau_risco_rede`.
-7. Treinamento do modelo estatístico.
-8. Geração das probabilidades e regras probabilísticas.
 
 ---
 
