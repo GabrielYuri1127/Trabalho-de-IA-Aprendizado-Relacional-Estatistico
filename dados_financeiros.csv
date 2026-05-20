@@ -1,1 +1,9 @@
-
+cliente_id,renda_mensal,score_classico,inadimplente_historico
+joao,5200,750,0
+ana,3100,610,0
+carlos,1800,420,1
+daniel,1200,350,1
+maria,4600,690,0
+lucas,3900,640,0
+beatriz,5800,780,0
+fernando,2200,480,1
