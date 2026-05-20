@@ -1,6 +1,4 @@
-# Aprendizado Relacional Estatistico
-# Arquitetura Híbrida SRL – Prolog + Python
-
+# Aprendizado Relacional Estatistica
 ## Informações da Disciplina
 
 - **Disciplina:** Inteligência Artificial
