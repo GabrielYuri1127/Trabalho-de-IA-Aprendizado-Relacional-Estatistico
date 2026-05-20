@@ -10,18 +10,6 @@
 
 ---
 
-## Origem da Atividade
-
-Esta atividade foi proposta na aula **“IA: Da Lógica aos Números – SRL & Python”**, com base nos slides:
-
-- Slide 04/11 – Arquitetura
-- Slide 05/11 – Projeto Prático Avaliativo
-- Slides 06 a 10 – Implementação em Prolog e Python
-
-O projeto consiste na construção de um sistema híbrido de análise de risco de crédito, integrando lógica relacional em Prolog com técnicas estatísticas em Python.
-
----
-
 ## Objetivo
 
 Desenvolver um sistema capaz de estimar o risco de inadimplência de clientes a partir de:
